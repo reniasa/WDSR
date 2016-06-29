@@ -1,8 +1,7 @@
+package mypackage.transaction;
+
 import java.math.BigDecimal;
 
-/**
- * Created by renuasa on 6/1/2016.
- */
 public class Transaction {
 
     public String productName;

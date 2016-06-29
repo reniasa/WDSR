@@ -1,3 +1,6 @@
+package mypackage.transaction;
+
+import mypackage.exception.InvalidTransactionIdException;
 
 public class NewTransactionReporter {
 

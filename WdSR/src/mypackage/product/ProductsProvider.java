@@ -1,3 +1,5 @@
+package mypackage.product;
+
 import java.util.List;
 
 
